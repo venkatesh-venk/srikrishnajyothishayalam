@@ -81,7 +81,7 @@ export default function MarriagePage() {
 
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Approach</h2>
             <p className="text-gray-700 leading-relaxed mb-6">
-              Through detailed astrological analysis of both partners' birth charts, we provide 
+              Through detailed astrological analysis of both partners&apos; birth charts, we provide 
               comprehensive insights into:
             </p>
 
@@ -121,7 +121,7 @@ export default function MarriagePage() {
               <p className="text-gray-700 leading-relaxed">
                 With decades of experience in Vedic astrology and thousands of successful marriage 
                 consultations, we provide accurate and practical guidance that helps you make one of 
-                life's most important decisions with confidence and clarity.
+                life&apos;s most important decisions with confidence and clarity.
               </p>
             </div>
           </motion.div>

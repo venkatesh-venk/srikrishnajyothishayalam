@@ -82,7 +82,7 @@ export default function EducationPage() {
                 </h3>
                 <p className="text-gray-700">
                   Through analysis of your 4th house (education), 5th house (intelligence), and 
-                  Jupiter's position, we determine your educational prospects and best timing.
+                  Jupiter&apos;s position, we determine your educational prospects and best timing.
                 </p>
               </div>
 

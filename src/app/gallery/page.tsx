@@ -99,7 +99,7 @@ export default function GalleryPage() {
               Gallery Coming Soon
             </h2>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              We're currently updating our gallery with new photos from recent consultations, 
+              We&apos;re currently updating our gallery with new photos from recent consultations, 
               events, and Vastu surveys. Check back soon!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -176,7 +176,7 @@ export default function GalleryPage() {
                     </svg>
                   ))}
                 </div>
-                <p className="text-gray-700 mb-4 italic">"{testimonial.feedback}"</p>
+                <p className="text-gray-700 mb-4 italic">&ldquo;{testimonial.feedback}&rdquo;</p>
                 <div className="border-t pt-4">
                   <p className="font-semibold text-gray-900">{testimonial.name}</p>
                   <p className="text-sm text-gray-600">{testimonial.service}</p>
