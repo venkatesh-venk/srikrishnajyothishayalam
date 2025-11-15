@@ -49,7 +49,7 @@ export default function CareerPage() {
             </p>
 
             <p className="text-gray-700 leading-relaxed mb-8">
-              Let ancient astrological wisdom help you flourish your career. Whether you're seeking 
+              Let ancient astrological wisdom help you flourish your career. Whether you&apos;re seeking 
               job opportunities, planning a career change, starting a business, or looking for 
               promotion timing, our comprehensive career analysis provides the insights you need.
             </p>

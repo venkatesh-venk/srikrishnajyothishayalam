@@ -84,7 +84,7 @@ export default function AboutPage() {
               <p className="text-gray-700 leading-relaxed">
                 His deep understanding of ancient Vedic sciences combined with practical wisdom 
                 makes him uniquely qualified to provide accurate predictions and effective remedies 
-                for life's challenges.
+                for life&apos;s challenges.
               </p>
             </motion.div>
           </div>
